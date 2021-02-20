@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function arrayDestructuring() {
 
     // we have an array with the name and surname
-    let arr = ["Margaery", "Tyrell"]
+    let arr = ["Margaery", "Tyrelle"]
 
     //1. Destructor this array to firstName and lastName
     let [firstName, lastName] = arr;
